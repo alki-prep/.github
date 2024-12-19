@@ -1,6 +1,6 @@
 # Alki: Master LeetCode Through the Power of Spaced Repetition
 
-![Alki-Logo](alki-logo.png)
+![Alki-Logo](../alki-logo.png)
 
 _Alki - Mastering Algorithms, Securing Your Future through Science-Based Learning_
 
